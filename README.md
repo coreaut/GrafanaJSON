@@ -9,3 +9,6 @@ The count of host and service checks changes regulary. I use this to automated t
 Currently only InfluxDB is supported because that is what I use.
 Graphite support is planned but Pull requests are welcome.
 This is in very early development.
+
+## Example / Usage
+Look into test.py
